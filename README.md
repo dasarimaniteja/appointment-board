@@ -49,8 +49,7 @@ ASSIGNMENT/
 │   ├── models.py
 │   ├── schemas.py
 │   ├── seed.py
-│   ├── requirements.txt
-│   └── .gitignore
+│   ├── requirements.txt  
 │
 ├── frontend/
 │   ├── src/
